@@ -16,7 +16,7 @@ def main (main):
     time.sleep(0.2)
     fx9 = input (" \033[1;33mﺔﯾﺤﺿ يﺬﯾأ  ==> \033[1;32m")
     time.sleep(0.2)
-    if fx9 == '265876857' :
+    if fx9 == '495071577' :
             os.system ('python root2.py')
 main (main)
 home_main ()
